@@ -7,11 +7,17 @@ Financiero apasionado por la tecnología donde busco utilizar herramientas tecno
 💡 Tengo experiencia en Python.  
 🏆 He completado un proyecto en análisis exploratorios exahustivos.  
 🎯 Mi objetivo es seguir desarrolando habilidades para ayudar a la problemática actual en la tecnología.  
+:mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Javier-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javier-alcala-fernandez/)
 
-## Donde pueden encontrame
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-alcala-fernandez)
+### :hammer_and_wrench: Lenguajes y herramientas :
 
-## Habilidades
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+
+</div>
