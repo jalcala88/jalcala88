@@ -19,5 +19,7 @@ Financiero apasionado por la tecnología donde busco utilizar herramientas tecno
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
-
+ <img decoding="async" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  </a>
+    
 </div>
